@@ -1,0 +1,4 @@
+*chatvenv
+*.idea
+*my_settings.py
+*__pycache__
